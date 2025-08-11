@@ -7,8 +7,6 @@
 </p>
 
 - I’m currently exploring **Web Dev**
-- All of my projects are
-available at [https://github.com/AbhiSan2005](https://github.com/AbhiSan2005)
 - Reach me at
 **sankpalabhiraj1@gmail.com**
 
